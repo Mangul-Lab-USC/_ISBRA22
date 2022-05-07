@@ -77,13 +77,15 @@
 }
 
 .menu > ul > li {
-  padding: 5px;
+  padding: 10px;
+  transition-duration: 0.15s;
   margin-bottom: 5px;
   border-radius: 6px;
 }
 
 .menu > ul > li:hover {
-  background: var(--secondary-main);
+  background: var(--accent);
+  color: var(--white);
   cursor: pointer;
   text-decoration: underline;
 }
@@ -114,13 +116,13 @@
 }
 
 .sponsors > ul > li:hover {
-  transform: translateY(-1px);
+  /* transform: translateY(-1px); */
   text-decoration: underline;
 }
 
-.sponsors > ul > li:active {
+/* .sponsors > ul > li:active {
   transform: translateY(0px);
-}
+} */
 
 .sponsors > ul > li > a {
   color: var(--white);
