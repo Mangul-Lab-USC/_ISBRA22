@@ -1,3 +1,19 @@
+@font-face {
+  font-family: 'Nunito Sans';
+  src: url('../fonts/NunitoSans-Regular.ttf');
+  font-weight: normal;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Nunito Sans';
+  src: url('../fonts/NunitoSans-Bold.ttf');
+  font-weight: bold;
+  font-style: normal;
+}
+
 *,
 *::before,
 *::after {
@@ -12,13 +28,14 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   box-sizing: border-box;
-  font-size: 0.9rem;
+  font-size: 1rem;
   line-height: 1.15;
+  font-family: 'Nunito Sans', arial;
 }
 
 body {
   margin: 0;
-  font-family: "arial";
+  font-family: "Nunito Sans", arial;
 
   -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
   font-size: 100%;
