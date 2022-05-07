@@ -1,0 +1,50 @@
+.root {
+  display: block;
+  position: relative;
+}
+
+.root > h1,
+.root > h2,
+.root > h3 {
+  border-bottom: 1px solid var(--border);
+}
+
+.table {
+  display: flex;
+  flex-direction: column;
+  background: var(--secondary-main);
+  border-radius: 8px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.entry {
+  display: flex;
+  flex-direction: row;
+  border-bottom: 1px solid var(--border);
+  margin: 10px 0px;
+}
+
+.entry > div {
+  flex: 1;
+  font-weight: bold;
+  margin-right: 20px;
+}
+
+.entry > span {
+  color: red;
+  font-weight: bold;
+}
+
+.image {
+  border-radius: 16px;
+  width: 100%;
+}
+
+.list {
+  list-style: upper-roman;
+}
+
+.list > li {
+  margin-bottom: 10px;
+}

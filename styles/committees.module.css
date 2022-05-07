@@ -1,0 +1,38 @@
+.root {
+  display: block;
+  position: relative;
+}
+
+.root > h1,
+.root > h2,
+.root > h3 {
+  border-bottom: 1px solid var(--border);
+}
+
+.committee {
+  padding: 10px;
+  border-radius: 16px;
+  background: var(--secondary-main);
+  margin-bottom: 10px;
+}
+
+.member {
+  margin-bottom: 10px;
+  border-bottom: 1px solid var(--border);
+}
+
+.member > span {
+    font-size: 1rem;
+}
+
+.member > h3 {
+  margin: 0;
+  margin-bottom: 5px;
+  font-size: 1.2rem;
+  text-decoration: underline;
+  text-transform: capitalize;
+}
+
+.member > h3 > a {
+  color: var(--text);
+}

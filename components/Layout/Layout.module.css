@@ -1,0 +1,159 @@
+.root {
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr;
+  grid-template-areas:
+    "header header header"
+    "left . right";
+  gap: 10px;
+  max-width: 1024px;
+  margin: 0px auto;
+  overflow: visible;
+  padding: 10px;
+}
+
+.header {
+  display: flex;
+  height: 55px;
+  padding: 0px 20px;
+  background: var(--secondary-main);
+  border-bottom: 1px solid var(--border);
+  grid-area: header;
+}
+
+.header > div {
+  display: flex;
+  align-items: center;
+  position: relative;
+  max-width: 1024px;
+  width: 100%;
+  height: 100%;
+  margin: 0px auto;
+}
+
+.header > div > h2 {
+  cursor: pointer;
+}
+
+.hero {
+  background: var(--accent);
+  color: var(--white);
+  padding: 20px;
+  margin-bottom: 60px;
+  border-bottom: 1px solid var(--border);
+  box-shadow: var(--shadow);
+}
+
+.hero > div {
+  display: flex;
+  flex-direction: column;
+  max-width: 1024px;
+  text-align: center;
+  margin: 0px auto;
+}
+
+.menu,
+.sponsors {
+  display: flex;
+  flex-direction: column;
+  position: sticky;
+  align-self: start;
+  top: 20px;
+  background: var(--stripe);
+  padding: 10px;
+  border-radius: 16px;
+  top: 20px;
+  margin: 20px 0px;
+}
+
+.menu > h2 {
+  text-align: left;
+  border-bottom: 1px solid var(--border);
+}
+
+.menu > ul {
+  margin: 0;
+  list-style: none;
+  padding: 0px;
+}
+
+.menu > ul > li {
+  padding: 5px;
+  margin-bottom: 5px;
+  border-radius: 6px;
+}
+
+.menu > ul > li:hover {
+  background: var(--secondary-main);
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.layout {
+  background: var(--primary-main);
+  z-index: 1;
+}
+
+.sponsors > h2 {
+  text-align: left;
+  border-bottom: 1px solid var(--border);
+}
+
+.sponsors > ul {
+  margin: 0;
+  list-style: none;
+  padding: 0px;
+}
+
+.sponsors > ul > li {
+  background: var(--accent);
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  color: var(--white);
+  transition-duration: 0.2s;
+}
+
+.sponsors > ul > li:hover {
+  transform: translateY(-1px);
+  text-decoration: underline;
+}
+
+.sponsors > ul > li:active {
+  transform: translateY(0px);
+}
+
+.sponsors > ul > li > a {
+  color: var(--white);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.stripe {
+  display: flex;
+  position: absolute;
+  height: 750px;
+  top: 150px;
+  z-index: -1;
+  width: 100%;
+  left: 0;
+  overflow: hidden;
+  transform-origin: 0;
+  background: var(--stripe);
+  transform: skewY(-15deg);
+}
+
+@media only screen and (max-width: 814px) {
+  .root {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "header"
+      "left"
+      "."
+      "right";
+  }
+
+  .menu,
+  .sponsors {
+    position: relative;
+  }
+}
