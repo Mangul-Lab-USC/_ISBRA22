@@ -56,9 +56,11 @@ function Home() {
         <li>
           IEEE/ACM Transactions on Computational Biology and Bioinformatics
         </li>
-        <li>Future Generation Computer</li>
-        <li>Systems Journal of Computational Biology BMC Bioinformatics BMC</li>
-        <li>Genomics Tsinghua Science and Technology (SCI indexed)</li>
+        <li>Future Generation Computer Systems</li>
+        <li>Journal of Computational Biology</li>
+        <li>BMC Bioinformatics</li>
+        <li>BMC Genomics</li>
+        <li>Tsinghua Science and Technology (SCI indexed)</li>
       </ul>
     </div>
   );
