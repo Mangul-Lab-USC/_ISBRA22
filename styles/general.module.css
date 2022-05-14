@@ -1,6 +1,11 @@
 .root {
-  display: block;
+  display: flex;
+  flex-direction: column;
   position: relative;
+}
+
+.root > b > a {
+  color: var(--text) !important;
 }
 
 .root > h1,
@@ -47,4 +52,24 @@
 
 .list > li {
   margin-bottom: 10px;
+}
+
+.button {
+  background: var(--accent);
+  outline: none;
+  border: none;
+  border-radius: 8px;
+  color: var(--white);
+  transition-duration: 0.25s;
+  padding: 10px;
+  align-self: center;
+  text-decoration: none;
+}
+
+.button:hover {
+  transform: translateY(-2px);
+}
+
+.button:active {
+  transform: translateY(2px);
 }

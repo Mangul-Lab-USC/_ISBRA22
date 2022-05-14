@@ -6,19 +6,33 @@ function Submission() {
       <h1>Submission guidelines and publication information</h1>
       <p>
         Please submit extended abstracts (up to 12 pages in Springer LNCS
-        format) via the online submission system (
+        format) via the online submission system{" "}
+        (
         <b>
           <a
             rel="noreferrer"
             target="_blank"
-            href="https://easychair.org/conferences/?conf=isbra2021"
+            href="https://easychair.org/conferences/?conf=isbra2022"
           >
-            https://easychair.org/conferences/?conf=isbra2021
+            https://easychair.org/conferences/?conf=isbra2022
           </a>
         </b>
         ). Submission implies willingness of at least one author to register and
         present at the symposium. The authors should choose one of the following
         tracks:
+      </p>
+      <a
+        className={styles.button}
+        rel="noreferrer"
+        target="_blank"
+        href="https://easychair.org/conferences/?conf=isbra2022"
+      >
+        submit abstract here
+      </a>
+      <p>
+        <b>
+          Notice: All listed journals are unconfirmed and pending approval for 2022.
+        </b>
       </p>
       <h3>Track 1</h3>
       <p>
@@ -40,10 +54,10 @@ function Submission() {
               IEEE Transactions on NanoBioscience, Journal of Computational
               Biology
             </li>
-            <li>Tsinghua Science and Technology</li>
+            {/* <li>Tsinghua Science and Technology</li>
             <li>
               International Journal of Bioinformatics Research and Applications
-            </li>
+            </li> */}
           </ul>
         </li>
       </ul>
@@ -61,7 +75,7 @@ function Submission() {
           <ul>
             <li>BMC Bioinformatics</li>
             <li>BMC Genomics</li>
-            <li>BMC Medical Genomics</li>
+            {/* <li>BMC Medical Genomics</li> */}
           </ul>
         </li>
       </ul>

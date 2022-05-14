@@ -52,6 +52,11 @@ function Home() {
         Extended versions of selected papers from the conference will be
         published in the special issues of:
       </p>
+      <p>
+        <b>
+          Notice: All listed journals are unconfirmed and pending approval for 2022.
+        </b>
+      </p>
       <ul>
         <li>
           IEEE/ACM Transactions on Computational Biology and Bioinformatics

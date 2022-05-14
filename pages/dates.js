@@ -4,11 +4,11 @@ function Dates() {
   return (
     <div className={styles.root}>
       <h1>Important Dates</h1>
-      <h3>Key Dates</h3>
+      {/* <h3>Key Dates</h3> */}
       <div className={styles.table}>
         <div className={styles.entry}>
           <div>Submission deadline</div>
-          <span>July 25, 2022</span>
+          <span>July 15, 2022</span>
         </div>
         <div className={styles.entry}>
           <div>Notification of acceptance</div>
@@ -19,7 +19,7 @@ function Dates() {
           <span>September 7, 2022</span>
         </div>
       </div>
-      <h3>Short Abstracts Key Dates</h3>
+      {/* <h3>Short Abstracts Key Dates</h3>
       <div className={styles.table}>
         <div className={styles.entry}>
           <div>Submission deadline</div>
@@ -33,7 +33,7 @@ function Dates() {
           <div>Final version due</div>
           <span>September 7, 2022</span>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 }
