@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://mangul-lab-usc.github.io/ISBRA
+
+# Sitemaps
+Sitemap: https://mangul-lab-usc.github.io/ISBRA/sitemap.xml
