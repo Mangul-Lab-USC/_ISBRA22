@@ -51,8 +51,8 @@ function Home() {
         </ul>
       </div>
       <h3>
-        All papers accepted in ISBRA2022 will be published in the Springer
-        Lecture Notes in Computer Science Volume (EI index).
+        ISBRA2022 proceedings will be published in the Springer Lecture Notes in
+        Computer Science Volume (EI index).
       </h3>
       <p>
         Extended versions of selected papers from the conference will be
