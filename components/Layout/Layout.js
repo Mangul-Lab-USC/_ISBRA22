@@ -1,3 +1,4 @@
+import Head from "next/head";
 import Link from "next/link";
 import styles from "./Layout.module.css";
 
@@ -70,8 +71,8 @@ function Layout({ children }) {
           </h2>
         </div>
       </section>
-      <main className={styles.root}>
-        <section className={styles.menu}>
+      <div className={styles.root}>
+        <nav className={styles.menu}>
           <h2>Menu</h2>
           <ul>
             {menu.map((item) => (
@@ -80,9 +81,9 @@ function Layout({ children }) {
               </Link>
             ))}
           </ul>
-        </section>
+        </nav>
         <div className={styles.stripe} />
-        {children}
+        <main className={styles.main}>{children}</main>
         <section className={styles.sponsors}>
           <h2>Sponsors</h2>
           <ul>
@@ -95,7 +96,7 @@ function Layout({ children }) {
             ))}
           </ul>
         </section>
-      </main>
+      </div>
     </>
   );
 }

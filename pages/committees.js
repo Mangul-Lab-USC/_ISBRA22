@@ -1,9 +1,11 @@
 import styles from "../styles/committees.module.css";
 import committees from "../lib/committees";
+import SEO from "../components/Layout/SEO";
 
 function Committees() {
   return (
-    <div className={styles.root}>
+    <>
+      <SEO title="Committees" desc="Working committees for ISBRA 2022" />
       <h1>Committees</h1>
       {Object.keys(committees).map((key) => {
         const committee = committees[key];
@@ -30,7 +32,7 @@ function Committees() {
           </div>
         );
       })}
-    </div>
+    </>
   );
 }
 

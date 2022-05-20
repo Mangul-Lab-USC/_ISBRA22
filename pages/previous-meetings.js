@@ -1,9 +1,14 @@
 import styles from "../styles/committees.module.css";
 import meetings from "../lib/meetings";
+import SEO from "../components/Layout/SEO";
 
 function PreviousMeetings() {
   return (
-    <div className={styles.root}>
+    <>
+      <SEO
+        title="Previous Meetings"
+        desc="A list of previous ISBRA meetings."
+      />
       <h1>Previous Meetings</h1>
       <ul className={styles.committee}>
         {meetings.map((meeting) => (
@@ -16,7 +21,7 @@ function PreviousMeetings() {
           </div>
         ))}
       </ul>
-    </div>
+    </>
   );
 }
 

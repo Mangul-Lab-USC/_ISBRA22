@@ -1,9 +1,14 @@
 import styles from "../styles/general.module.css";
-import image from '../public/images/isbra2022.jpg'
+import image from "../public/images/isbra2022.jpg";
+import SEO from "../components/Layout/SEO";
 
 function Registration() {
   return (
-    <div className={styles.root}>
+    <>
+      <SEO
+        title="Registration and Venue"
+        desc="Information on registering and participating in ISBRA 2022 in Haifa, Israel."
+      />
       <h1>Registration and Venue</h1>
       <p>
         Each accepted paper should have at least one registered participant. The
@@ -65,7 +70,7 @@ function Registration() {
       <h2>ISBRA 2022 Venue</h2>
       <p>ISBRA 2022 will take place at University of Haifa, Haifa, Israel.</p>
       <img className={styles.image} src={image.src} />
-    </div>
+    </>
   );
 }
 

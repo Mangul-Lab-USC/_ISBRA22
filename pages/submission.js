@@ -1,13 +1,17 @@
 import styles from "../styles/general.module.css";
+import SEO from "../components/Layout/SEO";
 
 function Submission() {
   return (
-    <div className={styles.root}>
+    <>
+      <SEO
+        title="submissions"
+        desc="Submission implies willingness of at least one author to register and present at the symposium."
+      />
       <h1>Submission guidelines and publication information</h1>
       <p>
         Please submit extended abstracts (up to 12 pages in Springer LNCS
-        format) via the online submission system{" "}
-        (
+        format) via the online submission system (
         <b>
           <a
             rel="noreferrer"
@@ -31,7 +35,8 @@ function Submission() {
       </a>
       <p>
         <b>
-          Notice: All listed journals are unconfirmed and pending approval for 2022.
+          Notice: All listed journals are unconfirmed and pending approval for
+          2022.
         </b>
       </p>
       <h3>Track 1</h3>
@@ -79,7 +84,7 @@ function Submission() {
           </ul>
         </li>
       </ul>
-    </div>
+    </>
   );
 }
 

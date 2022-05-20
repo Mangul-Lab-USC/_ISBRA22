@@ -1,8 +1,14 @@
 import styles from "../styles/index.module.css";
+import SEO from "../components/Layout/SEO";
 
 function Home() {
   return (
-    <div className={styles.root}>
+    <>
+      <SEO
+        title="ISBRA 2022 - 18th International Symposium on Bioinformatics Research
+          and Applications"
+        desc="The International Symposium on Bioinformatics Research and Applications (ISBRA) provides a forum for the exchange of ideas and results among researchers, developers, and practitioners working on all aspects of bioinformatics and computational biology and their applications."
+      />
       <h1>Welcome</h1>
       <p>
         The International Symposium on Bioinformatics Research and Applications
@@ -54,7 +60,8 @@ function Home() {
       </p>
       <p>
         <b>
-          Notice: All listed journals are unconfirmed and pending approval for 2022.
+          Notice: All listed journals are unconfirmed and pending approval for
+          2022.
         </b>
       </p>
       <ul>
@@ -67,7 +74,7 @@ function Home() {
         <li>BMC Genomics</li>
         <li>Tsinghua Science and Technology (SCI indexed)</li>
       </ul>
-    </div>
+    </>
   );
 }
 

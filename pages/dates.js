@@ -1,8 +1,13 @@
 import styles from "../styles/general.module.css";
+import SEO from "../components/Layout/SEO";
 
 function Dates() {
   return (
-    <div className={styles.root}>
+    <>
+      <SEO
+        title="Important Dates"
+        desc="Important deadlines and dates for ISBRA 2022"
+      />
       <h1>Important Dates</h1>
       {/* <h3>Key Dates</h3> */}
       <div className={styles.table}>
@@ -34,7 +39,7 @@ function Dates() {
           <span>September 7, 2022</span>
         </div>
       </div> */}
-    </div>
+    </>
   );
 }
 

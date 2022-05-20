@@ -11,6 +11,22 @@
   padding: 10px;
 }
 
+.main {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.main > b > a {
+  color: var(--text) !important;
+}
+
+.main > h1,
+.main > h2,
+.main > h3 {
+  border-bottom: 1px solid var(--border);
+}
+
 .header {
   display: flex;
   height: 55px;
