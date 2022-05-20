@@ -12,7 +12,7 @@ function Calls() {
       <div className={styles.table}>
         <div className={styles.entry}>
           <div>ISBRA 2022 Call for Papers:</div>
-          <a href="ISBRA/ISBRA2022_CFP.pdf" attributes-list download>
+          <a href="ISBRA2022_CFP.pdf" attributes-list download>
             ISBRA 2022 CFP (PDF)
           </a>
         </div>
