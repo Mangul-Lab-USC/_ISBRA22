@@ -1,0 +1,24 @@
+.keynote {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background: var(--secondary-main);
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.keynoteContainer {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.keynoteContainer > img {
+  height: 200px;
+  border-radius: 8px;
+}
+
+.keynoteWrapper {
+    display: flex;
+    flex-direction: column;
+}

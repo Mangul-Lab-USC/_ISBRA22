@@ -24,7 +24,11 @@ const menu = [
     href: "/submission",
   },
   {
-    name: "Calls for Papers / Abstracts / Workshops & Tutorials",
+    name: "Keynote Speakers",
+    href: "/keynotes",
+  },
+  {
+    name: "Call for Papers",
     href: "/calls",
   },
   {
@@ -44,7 +48,7 @@ const sponsors = [
   },
   {
     name: "National Science Foundation, USA",
-    url: "https://www.nsf.gov/",
+    url: "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923679&HistoricalAwards=false",
   },
   {
     name: "International Society for Computational Biology",

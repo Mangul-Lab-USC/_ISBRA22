@@ -13,7 +13,7 @@ function Dates() {
       <div className={styles.table}>
         <div className={styles.entry}>
           <div>Submission deadline</div>
-          <span>July 15, 2022</span>
+          <span>July 25, 2022</span>
         </div>
         <div className={styles.entry}>
           <div>Notification of acceptance</div>
