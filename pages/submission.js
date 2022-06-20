@@ -55,14 +55,8 @@ function Submission() {
             <li>
               IEEE/ACM Transactions on Computational Biology and Bioinformatics
             </li>
-            <li>
-              IEEE Transactions on NanoBioscience, Journal of Computational
-              Biology
-            </li>
-            {/* <li>Tsinghua Science and Technology</li>
-            <li>
-              International Journal of Bioinformatics Research and Applications
-            </li> */}
+            <li>IEEE Transactions on NanoBioscience</li>
+            <li>Journal of Computational Biology</li>
           </ul>
         </li>
       </ul>
@@ -72,9 +66,6 @@ function Submission() {
       </p>
       <ul className={styles.list}>
         <li>Presentation at the conference</li>
-        <li>
-          Publication of the extended abstract in the Springer LNBI proceedings
-        </li>
         <li>
           invitation to submit a full-length paper in of the journals:
           <ul>
