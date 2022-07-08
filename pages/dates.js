@@ -9,7 +9,7 @@ function Dates() {
         desc="Important deadlines and dates for ISBRA 2022"
       />
       <h1>Important Dates</h1>
-      {/* <h3>Key Dates</h3> */}
+      <h3>Paper Submisson</h3>
       <div className={styles.table}>
         <div className={styles.entry}>
           <div>Submission deadline</div>
@@ -24,21 +24,20 @@ function Dates() {
           <span>September 7, 2022</span>
         </div>
       </div>
-      {/* <h3>Short Abstracts Key Dates</h3>
+      <h3>Short Abstract Submission</h3>
       <div className={styles.table}>
         <div className={styles.entry}>
           <div>Submission deadline</div>
-          <span>August 27, 2022</span>
+          <span>TBA</span>
         </div>
+      </div>
+      <h3>Poster Submission</h3>
+      <div className={styles.table}>
         <div className={styles.entry}>
-          <div>Notification of acceptance</div>
-          <span>September 2, 2022</span>
+          <div>Submission deadline</div>
+          <span>TBA</span>
         </div>
-        <div className={styles.entry}>
-          <div>Final version due</div>
-          <span>September 7, 2022</span>
-        </div>
-      </div> */}
+      </div>
     </>
   );
 }

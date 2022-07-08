@@ -1,5 +1,8 @@
 import styles from "../styles/index.module.css";
 import SEO from "../components/Layout/SEO";
+import NSF from "../public/images/NSF.png";
+import ISCB from "../public/images/iscb-logo.jpg";
+import GSU from "../public/images/GSU.jpg";
 
 function Home() {
   return (
@@ -74,6 +77,11 @@ function Home() {
         <li>BMC Genomics</li>
         <li>Tsinghua Science and Technology (SCI indexed)</li>
       </ul>
+      <div className={styles.logos}>
+        <img src={GSU.src} />
+        <img src={NSF.src} />
+        <img src={ISCB.src} />
+      </div>
     </>
   );
 }

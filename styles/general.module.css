@@ -57,3 +57,23 @@
 .button:active {
   transform: translateY(2px);
 }
+
+.notice {
+  display: flex;
+  flex-direction: column;
+  background: var(--accent);
+  border-radius: 8px;
+  padding: 10px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  text-align: center;
+  color: var(--white);
+}
+
+.notice > p {
+  font-size: 14px;
+}
+
+.link {
+  color: white
+}

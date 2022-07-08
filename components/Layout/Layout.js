@@ -89,7 +89,7 @@ function Layout({ children }) {
         <div className={styles.stripe} />
         <main className={styles.main}>{children}</main>
         <section className={styles.sponsors}>
-          <h2>Sponsors</h2>
+          <h2>Sponsors & Affiliates</h2>
           <ul>
             {sponsors.map((sponsor) => (
               <li className={styles.sponsor} key={sponsor.name}>

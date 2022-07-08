@@ -25,6 +25,21 @@ function Registration() {
         </li>
         <li>NO refund is available.</li>
       </ul>
+      <div className={styles.notice}>
+        <span>
+          Notice: All ISCB members recieve a 15% discount on registration
+          pricing!
+        </span>
+        <p>
+          We strongly encourage ISBRA participants to join the leading
+          professional international society for computational biology and
+          bioinformatics (ISCB) to enjoy its benefits and recieve a 15% discount
+          on ISBRA registration.
+        </p>
+        <a className={styles.link} rel="noreferrer" target="_blank" href="https://www.iscb.org/membership/newMembership">
+          You can apply for ISCB membership here
+        </a>
+      </div>
       <h2>Onsite Participation</h2>
       <div className={styles.table}>
         <div className={styles.entry}>

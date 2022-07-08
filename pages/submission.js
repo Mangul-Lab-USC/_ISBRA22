@@ -49,7 +49,7 @@ function Submission() {
           Publication of the extended abstract in the Springer LNBI proceedings
         </li>
         <li>
-          Invitation to submit a 30-50%-extended version to ISBRA'21 special
+          Invitation to submit a 30-50%-extended version to ISBRA'22 special
           issues of:
           <ul>
             <li>
@@ -67,7 +67,7 @@ function Submission() {
       <ul className={styles.list}>
         <li>Presentation at the conference</li>
         <li>
-          invitation to submit a full-length paper in of the journals:
+          invitation to submit a full-length paper to one of the following journals:
           <ul>
             <li>BMC Bioinformatics</li>
             <li>BMC Genomics</li>
