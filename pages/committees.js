@@ -20,14 +20,14 @@ function Committees() {
                     {member.href ? (
                       <a rel="noreferrer" target="_blank" href={member.href}>
                         {member.name ||
-                          member["first name"] + " " + member["last name"]}
+                          member["First name"] + " " + member["Last name"]}
                       </a>
                     ) : (
                       member.name ||
-                      member["first name"] + " " + member["last name"]
+                      member["First name"] + " " + member["Last name"]
                     )}
                   </h3>
-                  <span>{member.organization}</span>
+                  <span>{member.Organization}</span>
                 </div>
               ))}
             </div>
