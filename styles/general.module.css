@@ -25,6 +25,13 @@
   font-weight: bold;
 }
 
+.entry > span > span {
+  color: var(--subtext);
+  font-weight: regular;
+  font-size: 14px;
+  text-decoration: line-through;
+}
+
 .image {
   border-radius: 16px;
   width: 100%;
