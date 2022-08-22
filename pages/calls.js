@@ -16,6 +16,12 @@ function Calls() {
             ISBRA 2022 CFP (PDF)
           </a>
         </div>
+        <div className={styles.entry}>
+          <div>ISBRA 2022 Call for short abstracts, posters, etc:</div>
+          <a href="ISBRA2022_Abstracts_Posters.pdf" attributes-list download>
+            ISBRA 2022 CFA (PDF)
+          </a>
+        </div>
       </div>
     </>
   );

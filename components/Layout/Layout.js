@@ -28,7 +28,7 @@ const menu = [
     href: "/keynotes",
   },
   {
-    name: "Call for Papers",
+    name: "Call for Papers / Abstracts",
     href: "/calls",
   },
   {
