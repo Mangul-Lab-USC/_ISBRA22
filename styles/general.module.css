@@ -54,7 +54,7 @@
   transition-duration: 0.25s;
   padding: 10px;
   align-self: center;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .button:hover {

@@ -20,7 +20,7 @@ const menu = [
     href: "/agenda",
   },
   {
-    name: "Submission",
+    name: "Submission Guidelines",
     href: "/submission",
   },
   {
