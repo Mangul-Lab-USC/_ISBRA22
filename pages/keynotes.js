@@ -15,7 +15,7 @@ const speakers = [
     img: "https://plantscience.agri.huji.ac.il/sites/default/files/styles/profile_full/public/plantsciences/files/tamar_friedlander.png",
     title: "Faculty of Agriculture, Hebrew University of Jerusalem",
     description:
-      "Computational - theoretical approaches to study self-incompatibility in plant fertilization; evolution and organization of gene regulatory networks.",
+      "Tamar Friedlander has a diverse academic background. She obtained her BSc in Physics and Mathematics from the Hebrew University of Jerusalem and her M.Sc. in Electrical Engineering from Tel-Aviv University.  In her PhD she switched gears and turned her analytical skills to study theoretical problems in biology, gaining her PhD in Physics in the Technion’s Network Biology Research laboratory.  Later on, she continued to a first post-doc at the Weizmann Institute (Uri Alon’s lab), and then a second post-doc in IST Austria where she focused on theoretical evolutionary biology and population genetics. Since 2017 she is a faculty in the Plant sciences and Genetics Institute in the Faculty of Agriculture, Food and Environment in the Hebrew University of Jerusalem. There she is studying the evolution of self-incompatibility in plants, as well as general evolutionary questions.  ",
   },
   {
     name: "Abraham B Korol",
