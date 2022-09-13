@@ -13,7 +13,7 @@ const speakers = [
   {
     name: "Tamar Friedlander",
     img: "https://plantscience.agri.huji.ac.il/sites/default/files/styles/profile_full/public/plantsciences/files/tamar_friedlander.png",
-    title: "Faculty of Agriculture, Hebrew University of Jesusalem",
+    title: "Faculty of Agriculture, Hebrew University of Jerusalem",
     description:
       "Computational - theoretical approaches to study self-incompatibility in plant fertilization; evolution and organization of gene regulatory networks.",
   },
@@ -39,7 +39,7 @@ const speakers = [
     title:
       "National Center for Biotechnology Information, National Institutes of Health",
     description:
-      "Dr. Koonin's group performs research in many areas of evolutionary genomics. The overall gist of Dr. Koonin's research is to take advantages of the advances of comparative genomics and systems biology to address fundamental problems in evolutionary biology.",
+      "Prof Eugene Koonin is Senior Investigator at the National Center for Biotechnology Information (NCBI). He is a recognised expert in the field of evolutionary and computational biology. Koonin's principal research goals include the comparative analysis of sequenced genomes and automatic methods for genome-scale annotation of gene functions. He also researches in the application of comparative genomics for phylogenetic analysis, reconstruction of ancestral life forms and building large-scale evolutionary scenarios, as well as mathematical modeling of genome evolution. Koonin's research also involves computational study of the major transitions in the evolution of life (such as the origin of eukaryotes), the evolution of eukaryotic signaling and developmental pathways from the comparative-genomic perspective. Koonin has worked as Adjunct Professor at the Georgia Institute of Technology, Boston University and the University of Haifa. As of 2014, Koonin serves on the advisory editorial board of Trends in Genetics, and is co-Editor-in-Chief of the open access journal Biology Direct. He served on the editorial board of Bioinformatics  and is also an advisory board member in bioinformatics at Faculty of 1000. In 2016 he was elected to the National Academy of Sciences.",
   },
 ];
 
