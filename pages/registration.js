@@ -82,7 +82,12 @@ function Registration() {
           <span>400,00 USD</span>
         </div>
       </div>
-      <h2>test</h2>
+      <h2>Payment details</h2>
+      <div className={styles.notice}>
+        <a className={styles.link} rel="noreferrer" target="_blank" href="https://fns.haifa.ac.il/shop/">
+          ISBRA 2022 PAYMENT
+        </a>
+      </div>
       <h2>ISBRA 2022 Venue</h2>
       <p>ISBRA 2022 will take place at University of Haifa, Haifa, Israel.</p>
       <img className={styles.image} src={image.src} />
