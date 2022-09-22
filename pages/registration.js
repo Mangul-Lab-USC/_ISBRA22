@@ -82,6 +82,7 @@ function Registration() {
           <span>400,00 USD</span>
         </div>
       </div>
+       test
       <h2>ISBRA 2022 Venue</h2>
       <p>ISBRA 2022 will take place at University of Haifa, Haifa, Israel.</p>
       <img className={styles.image} src={image.src} />
