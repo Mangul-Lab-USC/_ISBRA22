@@ -101,8 +101,8 @@ function Registration() {
          <a className={styles.link} rel="noreferrer" target="_blank" href="https://www.leonardo-hotels.com/haifa/leonardo-plaza-haifa"> Leonardo Plaza Haifa</a> – 195$ per night<br></br>
          <a className={styles.link} rel="noreferrer" target="_blank" href="http://carmella-boutique-hotel.haifa-hotels-il.com/en/"> Carmella Boutique Hotel</a> – 145$ per night<br></br>
          <a className={styles.link} rel="noreferrer" target="_blank" href="https://www.goldencrown-hotels.com/templars-boutique-hotel-haifa"> Templars Boutique Hotel</a> - 250$ per night<br></br>
-         <a className={styles.link} rel="noreferrer" target="_blank" href="https://www.goldencrown-hotels.com/%D7%91%D7%99%D7%AA-%D7%9E%D7%9C%D7%95%D7%9F-%D7%91%D7%97%D7%99%D7%A4%D7%94"> Golden Crown Haifa</a> – 145$ per night<br>
-         <a className={styles.link} rel="noreferrer" target="_blank" href="https://www.colonyhaifa.com/"> The Colony Hotel</a> – 190$ per night<br>
+         <a className={styles.link} rel="noreferrer" target="_blank" href="https://www.goldencrown-hotels.com/%D7%91%D7%99%D7%AA-%D7%9E%D7%9C%D7%95%D7%9F-%D7%91%D7%97%D7%99%D7%A4%D7%94"> Golden Crown Haifa</a> – 145$ per night<br></br>
+         <a className={styles.link} rel="noreferrer" target="_blank" href="https://www.colonyhaifa.com/"> The Colony Hotel</a> – 190$ per night<br></br>
          <a className={styles.link} rel="noreferrer" target="_blank" href="https://www.villacarmel.co.il/en/"> Villa Carmel Boutique Hotel</a> – 130$ per night
       </p>
       
