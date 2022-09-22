@@ -90,11 +90,12 @@ function Registration() {
       </div>
       <h2>ISBRA 2022 Venue</h2>
       <p>ISBRA 2022 will take place at University of Haifa, Haifa, Israel.</p>
+      <img className={styles.image} src={image.src} />
       <h2>Hotels</h2>
-      <h3>Transportation from Ben-Gurion air port to Haifa (Hof haCarmel station):</h3>
+      <b>Transportation from Ben-Gurion air port to Haifa (Hof haCarmel station):</b>
       <p>The most convenient way to get to Haifa is by the <a rel="noreferrer" target="_blank" href="https://www.rail.co.il/en"> public train</a>. Train operates regularly with percise timetable during weekdays (Sun-Thu) until late night. Fair is pretty cheap - near $10. There is also the <a rel="noreferrer" target="_blank" href="https://www.egged.co.il/"> public busses</a> that go either directly to Haifa central station - Hof haCarmel station. Here are <a  rel="noreferrer" target="_blank" href="https://www.rome2rio.com/map/Tel-Aviv/Haifa-Hof-HaCarmel-Station"> few options</a> with prices. There is also a 24/7 service taxi waiting right at the exit of the terminal with prices around $25. From Haifa Hof haKarmel station to U Haifa campus there is a regular <a rel="noreferrer" target="_blank" href="https://www.rome2rio.com/map/Tel-Aviv/Haifa-Hof-HaCarmel-Station"> public bus service</a> during the day hours.
       </p>
-      <h3>Hotels in Haifa that are recommended (prices may not be accurate or updated and depand on season and room type)</h3>
+      <b>Hotels in Haifa that are recommended (prices may not be accurate or updated and depand on season and room type)</b>
       <p><a  rel="noreferrer" target="_blank" href="https://www.danhotels.com/HaifaHotels/DanCarmelHaifaHotel"> Dan Carmen Hotel</a> – 217$ per night<br></br>
          <a  rel="noreferrer" target="_blank" href="https://www.danhotels.com/HaifaHotels/DanCarmelHaifaHotel"> Dan Panorama Haifa Hotel</a> – 150$ per night<br></br>
          <a  rel="noreferrer" target="_blank" href="https://www.danhotels.com/HaifaHotels/MirabellePlazaHaifaHotel"> Mirabelle Plaza Haifa</a> – 160$ per night<br></br>
@@ -105,8 +106,6 @@ function Registration() {
          <a  rel="noreferrer" target="_blank" href="https://www.colonyhaifa.com/"> The Colony Hotel</a> – 190$ per night<br></br>
          <a  rel="noreferrer" target="_blank" href="https://www.villacarmel.co.il/en/"> Villa Carmel Boutique Hotel</a> – 130$ per night
       </p>
-      
-      <img className={styles.image} src={image.src} />
     </>
   );
 }
