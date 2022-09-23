@@ -18,7 +18,7 @@ function Registration() {
       </p>
       <h2>ISBRA 2022 Registration Instructions</h2>
       <ul>
-        <li>ISBRA2022 offers only Online Payment (TBA)</li>
+        <li>ISBRA2022 offers only <a  rel="noreferrer" target="_blank" href="https://fns.haifa.ac.il/shop/"> Online Payment</a></li>
         <li>
           Registration fees are set differently for onsite participation and
           remote participation.
@@ -82,11 +82,6 @@ function Registration() {
           <span>400,00 USD</span>
         </div>
       </div>
-      <h2>Payment details</h2>
-      <div className={styles.notice}>
-        <a className={styles.link} rel="noreferrer" target="_blank" href="https://fns.haifa.ac.il/shop/">
-          ISBRA 2022 PAYMENT
-        </a>
       </div>
       <h2>ISBRA 2022 Venue</h2>
       <p>ISBRA 2022 will take place at University of Haifa, Haifa, Israel.</p>
