@@ -100,6 +100,20 @@ function Registration() {
          <a  rel="noreferrer" target="_blank" href="https://www.colonyhaifa.com/"> The Colony Hotel</a> – 190$ per night<br></br>
          <a  rel="noreferrer" target="_blank" href="https://www.villacarmel.co.il/en/"> Villa Carmel Boutique Hotel</a> – 130$ per night
       </p>
+      <h2>Restaurants</h2>
+      <p><a  rel="noreferrer" target="_blank" href="https://www.minna-tomei.co.il/"> https://www.minna-tomei.co.il </a> - Asian kitchen <br></br>
+         <a  rel="noreferrer" target="_blank" href="http://www.bprest.co.il/"> http://www.bprest.co.il/</a> - Burger place<br></br>
+         <a  rel="noreferrer" target="_blank" href="https://isabelabar.rest.co.il"> https://isabelabar.rest.co.il</a> - Italian, sea food<br></br>
+         <a  rel="noreferrer" target="_blank" href="https://eataliano.rest.co.il"> https://eataliano.rest.co.il</a> - Italian restaurant<br></br>
+         <a  rel="noreferrer" target="_blank" href="https://m.facebook.com/RolaLevantineKitchen"> https://m.facebook.com/RolaLevantineKitchen</a> - Levantine kitchen<br></br>
+         <a  rel="noreferrer" target="_blank" href=" https://libira.co.il"> https://libira.co.il</a> – Brewery / Restaurant<br></br>
+         <a  rel="noreferrer" target="_blank" href="https://changba.co.il"> https://changba.co.il</a> - Thai food<br></br>
+         <a  rel="noreferrer" target="_blank" href="https://www.vivino.co.il/resturants/haifa1"> https://www.vivino.co.il/resturants/haifa1</a> - Italian food<br></br>
+         <a  rel="noreferrer" target="_blank" href="https://www.raffaello.co.il"> https://www.raffaello.co.il</a> - Italian food<br></br>
+         <a  rel="noreferrer" target="_blank" href="https://zafririm1.co.il"> https://zafririm1.co.il</a> - Versatile restaurant<br></br>
+         <a  rel="noreferrer" target="_blank" href="https://habokrim.rest.co.il"> https://habokrim.rest.co.il</a>  - Steak house<br></br>
+         <a  rel="noreferrer" target="_blank" href="https://www.sinta-bar.co.il"> https://www.sinta-bar.co.il</a> - Urban kitchen
+      </p>
     </>
   );
 }
