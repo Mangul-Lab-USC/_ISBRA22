@@ -12,7 +12,7 @@ function Registration() {
       <h1>Registration and Venue</h1>
       <p>
         Each accepted paper should have at least one registered participant. The
-        registration fee should be paid by <b>October 1, 2022</b>. Without a
+        registration fee should be paid by <b>October 8, 2022</b>. Without a
         dedicated registration, the paper cannot be included in the Journals and
         Springer Proceedings.
       </p>
@@ -43,42 +43,42 @@ function Registration() {
       <h2>Onsite Participation</h2>
       <div className={styles.table}>
         <div className={styles.entry}>
-          <div>Author Registration ( Before October 1, 2022 )</div>
+          <div>Author Registration ( Before October 8, 2022 )</div>
           <span>600,00 USD</span>
         </div>
         <div className={styles.entry}>
-          <div>Attendee Registration ( Before October 1, 2022 )</div>
+          <div>Attendee Registration ( Before October 8, 2022 )</div>
           <span>600,00 USD</span>
         </div>
       </div>
       <div className={styles.table}>
         <div className={styles.entry}>
-          <div>Author Registration ( After October 1, 2022 )</div>
+          <div>Author Registration ( After October 8, 2022 )</div>
           <span>700,00 USD</span>
         </div>
         <div className={styles.entry}>
-          <div>Attendee Registration ( After October 1, 2022 )</div>
+          <div>Attendee Registration ( After October 8, 2022 )</div>
           <span>700,00 USD</span>
         </div>
       </div>
       <h2>Remote Participation</h2>
       <div className={styles.table}>
         <div className={styles.entry}>
-          <div>Remote Author Registration ( Before October 1, 2022 )</div>
+          <div>Remote Author Registration ( Before October 8, 2022 )</div>
           <span>400,00 USD</span>
         </div>
         <div className={styles.entry}>
-          <div>Remote Attendee Registration ( Before October 1, 2022 )</div>
+          <div>Remote Attendee Registration ( Before October 8, 2022 )</div>
           <span>300,00 USD</span>
         </div>
       </div>
       <div className={styles.table}>
         <div className={styles.entry}>
-          <div>Remote Author Registration ( After October 1, 2022 )</div>
+          <div>Remote Author Registration ( After October 8, 2022 )</div>
           <span>500,00 USD</span>
         </div>
         <div className={styles.entry}>
-          <div>Remote Attendee Registration ( After October 1, 2022 )</div>
+          <div>Remote Attendee Registration ( After October 8, 2022 )</div>
           <span>400,00 USD</span>
         </div>
       </div>
