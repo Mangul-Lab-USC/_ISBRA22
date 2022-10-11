@@ -5,21 +5,22 @@ function Agenda() {
     <>
     <h1>ISBRA 2022 Program</h1>
         <table>
+        <thead>
           <tr>
-            <th>Company</th>
-            <th>Contact</th>
-            <th>Country</th>
+            <th>9:00am-<br>10:00am</th>
+            <th>Plenary Session Room: TBA<br>Chair:TBA</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td></td>
+            <td>Session 1:<br>Keynote Talk<br>Talk Title<br>Eugene Koonin, National Center for Biotechnology Information,<br>National Institutes of Health</td>
           </tr>
           <tr>
-            <td>Alfreds Futterkiste</td>
-            <td>Maria Anders</td>
-            <td>Germany</td>
+            <td>10:00am-<br>10:20am</td>
+            <td>Coffee break<br></td>
           </tr>
-          <tr>
-            <td>Centro comercial Moctezuma</td>
-            <td>Francisco Chang</td>
-            <td>Mexico</td>
-          </tr>
+        </tbody>
         </table>
     </>
   );
