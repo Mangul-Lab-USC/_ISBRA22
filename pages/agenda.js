@@ -16,5 +16,3 @@ function Agenda() {
 export default Agenda;
 
 
-import styles from "../styles/general.module.css";
-
