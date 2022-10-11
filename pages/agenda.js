@@ -21,6 +21,7 @@ function Agenda() {
             <td>Mexico</td>
           </tr>
         </table>
+    </>
   );
 }
 
