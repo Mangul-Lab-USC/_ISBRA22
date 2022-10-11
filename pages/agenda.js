@@ -8,16 +8,6 @@ function Agenda() {
       <h1>(preliminary draft)</h1>
       <br></br>
       <h2>Tuesday, November 15th, 2022</h2>
-      <style type="text/css">
-            .tg  {border-collapse:collapse;border-spacing:0;}
-            .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-              overflow:hidden;padding:10px 5px;word-break:normal;}
-            .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-              font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-            .tg .tg-byi7{background-color:#e6f3ff;border-color:inherit;text-align:left;vertical-align:top}
-            .tg .tg-ljfq{background-color:#9cc2e5;border-color:inherit;text-align:left;vertical-align:top}
-            .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-            </style>
             <table class="tg">
             <thead>
               <tr>
