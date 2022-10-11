@@ -8,7 +8,7 @@ function Agenda() {
 <thead>
   <tr>
     <th>9:00am-<br>10:00am</th>
-    <th>Plenary Session Room: TBA<br>Chair:TBA</th>
+    <th>Plenary Session Room: TBA<br></br>Chair:TBA</th>
   </tr>
 </thead>
     </>
