@@ -6,7 +6,7 @@ const speakers = [
   {
     name: "Mona Singh",
     img: mona.src,
-    title: "Ph.D., Massachusetts Institute of Technology, 1995",
+    title: "Professor of Computer Science, Princeton University",
     description:
       "Mona Singh is a professor of computer science and the Lewis Sigler Institute for Integrative Genomics. She has been on the faculty at Princeton University since 1999.   She received her A.B. and S.M degrees from Harvard University, and her Ph.D.  from MIT, all three in computer science.  She works broadly in computational molecular biology, as well as its interface with machine learning and algorithms.  Much of her work is on developing algorithms to decode genomes at the level of proteins and she is especially interested in developing data-driven methods for predicting and characterizing protein sequences, functions, interactions and networks, both in healthy and disease contexts.",
   },
