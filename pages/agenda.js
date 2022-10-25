@@ -1,4 +1,4 @@
-import styles from "../styles/general.module.css";
+import styles from "../styles/agenda.module.css";
 function Agenda() {
   return (
     <>
@@ -9,7 +9,7 @@ function Agenda() {
         </a>
     </div>
     <h1>Monday, November 14th, 2022</h1>
-    <div className={styles.styledtable}>
+    <div className={styles.styledtabl}>
     <table>
     <thead>
       <tr>
