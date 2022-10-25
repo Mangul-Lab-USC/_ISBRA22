@@ -13,10 +13,8 @@ function Agenda() {
     <table>
     <thead>
       <tr>
-        <div className={styles.styledtable}>
         <td>7:00pm-<br></br>9:00pm</td>
         <td><b>Reception</b></td>
-        </div>
       </tr>
     </thead>
     </table>
