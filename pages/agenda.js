@@ -18,6 +18,7 @@ function Agenda() {
       </tr>
     </thead>
     </table>
+    </div>
     <p></p>
     <h1>Tuesday, November 15th, 2022</h1>
     <table>
@@ -362,7 +363,6 @@ function Agenda() {
       </tr>
     </tbody>
     </table>
-    </div>
     </>
   );
 }
