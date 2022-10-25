@@ -86,7 +86,7 @@
 }
 
 .styledtable {
-  display: grid;
-  border: 2px solid black;
+  display: table-cell;
+  border: 2px solid red;
   border-collapse: collapse;
 }
