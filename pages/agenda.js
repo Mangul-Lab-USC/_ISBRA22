@@ -11,7 +11,7 @@ function Agenda() {
     <table>
     <thead>
       <tr>
-        <td>7:00pm-<br>9:00pm</td>
+        <td>7:00pm-<br></br>9:00pm</td>
         <td>Reception</td>
       </tr>
     </thead>
