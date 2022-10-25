@@ -9,6 +9,7 @@ function Agenda() {
         </a>
     </div>
     <h1>Monday, November 14th, 2022</h1>
+    <div className={styles.table}>
     <table>
     <thead>
       <tr>
@@ -361,6 +362,7 @@ function Agenda() {
       </tr>
     </tbody>
     </table>
+    </div>
     </>
   );
 }
