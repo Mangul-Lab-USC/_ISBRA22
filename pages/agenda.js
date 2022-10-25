@@ -11,18 +11,18 @@ function Agenda() {
     <table>
     <thead>
       <tr>
-        <th>9:00am-<br>10:00am</th>
-        <th>Plenary Session Room: TBA<br>Chair:TBA</th>
+        <th>9:00am-<br></br>10:00am</th>
+        <th>Plenary Session Room: TBA<br></br>Chair:TBA</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td></td>
-        <td>Session 1:<br>Keynote Talk<br>Talk Title<br>Eugene Koonin, National Center for Biotechnology Information,<br>National Institutes of Health</td>
+        <td>Session 1:<br></br>Keynote Talk<br></br>Talk Title<br></br>Eugene Koonin, National Center for Biotechnology Information,<br></br>National Institutes of Health</td>
       </tr>
       <tr>
-        <td>10:00am-<br>10:20am</td>
-        <td>Coffee break<br></td>
+        <td>10:00am-<br></br>10:20am</td>
+        <td>Coffee break<br></br></td>
       </tr>
     </tbody>
     </table>
