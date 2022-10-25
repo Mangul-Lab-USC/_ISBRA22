@@ -86,11 +86,5 @@
 }
 
 .styledtable {
-  display: flex;
-  flex-direction: column;
-  background: var(--secondary-main);
-  border-radius: 8px;
-  padding: 10px;
-  margin-bottom: 20px;
-  border: 1px
+  border: 2px
 }
