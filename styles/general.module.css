@@ -86,7 +86,8 @@
 }
 
 .styledtable {
-  border: 2px solid black;
+  border: 2px solid purple;
   border-collapse: collapse;
-  display: table-cell;
+  border-bottom: 1px solid var(--border);
+
 }
