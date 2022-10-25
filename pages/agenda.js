@@ -21,6 +21,7 @@ function Agenda() {
     </div>
     <p></p>
     <h1>Tuesday, November 15th, 2022</h1>
+    <div className={styles.styledtable}>
     <table>
     <thead>
       <tr>
@@ -39,7 +40,9 @@ function Agenda() {
       </tr>
     </tbody>
     </table>
+    </div>
     <p></p>
+    <div className={styles.styledtable}>
     <table>
     <thead>
       <tr>
@@ -89,7 +92,9 @@ function Agenda() {
       </tr>
     </tbody>
     </table>
+    </div>
     <p></p>
+    <div className={styles.styledtable}>
     <table>
     <thead>
       <tr>
@@ -108,7 +113,9 @@ function Agenda() {
       </tr>
     </tbody>
     </table>
+    </div>
     <p></p>
+    <div className={styles.styledtable}>
     <table>
     <thead>
       <tr>
@@ -163,7 +170,9 @@ function Agenda() {
       </tr>
     </tbody>
     </table>
+    </div>
     <h1>Wednesday, November 16th, 2022</h1>
+    <div className={styles.styledtable}>
     <table>
     <thead>
       <tr>
@@ -182,7 +191,9 @@ function Agenda() {
       </tr>
     </tbody>
     </table>
+    </div>
     <p></p>
+    <div className={styles.styledtable}>
     <table>
     <thead>
       <tr>
@@ -232,7 +243,9 @@ function Agenda() {
       </tr>
     </tbody>
     </table>
+    </div>
     <p></p>
+    <div className={styles.styledtable}>
     <table>
     <thead>
       <tr>
@@ -251,7 +264,9 @@ function Agenda() {
       </tr>
     </tbody>
     </table>
+    </div>
     <p></p>
+    <div className={styles.styledtable}>
     <table>
     <thead>
       <tr>
@@ -301,7 +316,9 @@ function Agenda() {
       </tr>
     </tbody>
     </table>
+    </div>
     <h1>Thursday, November 17th, 2022</h1>
+    <div className={styles.styledtable}>
     <table>
     <thead>
       <tr>
@@ -320,7 +337,9 @@ function Agenda() {
       </tr>
     </tbody>
     </table>
-    <table>
+    </div>
+    <p></p>
+    <table className={styles.styledtable}>
     <thead>
       <tr>
         <th>10:20am-<br></br>11:40am</th>
