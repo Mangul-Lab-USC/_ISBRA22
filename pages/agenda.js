@@ -11,14 +11,12 @@ function Agenda() {
     <h1>Monday, November 14th, 2022</h1>
     <div className={styles.styledtabl}>
     <table>
-    <div className={styles.styledtabl}>
     <thead>
       <tr>
         <td>7:00pm-<br></br>9:00pm</td>
         <td><b>Reception</b></td>
       </tr>
     </thead>
-    </div>
     </table>
     <p></p>
     <h1>Tuesday, November 15th, 2022</h1>
