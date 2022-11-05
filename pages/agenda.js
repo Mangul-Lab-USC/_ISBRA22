@@ -16,12 +16,12 @@ function Agenda() {
         </a>
     </div>
     <img src={isbra_program_p1.src} />
-    <img src=isbra_program_p2 />
-    <img src=isbra_program_p3/>
-    <img src=isbra_program_p4 />
-    <img src=isbra_program_p5/>
-    <img src=isbra_program_p6 />
-    <img src=isbra_program_p7 />
+    <img src={isbra_program_p2.src} />
+    <img src={isbra_program_p3.src}/>
+    <img src={isbra_program_p4.src} />
+    <img src={isbra_program_p5.src}/>
+    <img src={isbra_program_p6.src} />
+    <img src={isbra_program_p7.src} />
     </>
   );
 }
