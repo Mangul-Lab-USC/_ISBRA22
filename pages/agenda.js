@@ -8,13 +8,13 @@ function Agenda() {
           ISBRA 2022 Program
         </a>
     </div>
-    <img className={styles.image} src="isbra_program_p1.png" />
-    <img className={styles.image} src="isbra_program_p2.png" />
-    <img className={styles.image} src="isbra_program_p3.png" />
-    <img className={styles.image} src="isbra_program_p4.png" />
-    <img className={styles.image} src="isbra_program_p5.png" />
-    <img className={styles.image} src="isbra_program_p6.png" />
-    <img className={styles.image} src="isbra_program_p7.png" />
+    <img src="isbra_program_p1.png" />
+    <img src="isbra_program_p2.png" />
+    <img src="isbra_program_p3.png" />
+    <img src="isbra_program_p4.png" />
+    <img src="isbra_program_p5.png" />
+    <img src="isbra_program_p6.png" />
+    <img src="isbra_program_p7.png" />
     </>
   );
 }
