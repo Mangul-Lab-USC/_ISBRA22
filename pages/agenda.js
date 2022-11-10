@@ -10,18 +10,13 @@ function Agenda() {
   return (
     <>
     <h1>Program agenda</h1>
+     <div className={styles.notice}>Note:  The Zoom links available in the conference program are password protected. All registered remote attendees will be emailed the password before the conference.
+    </div>
     <div className={styles.notice}>
-        <a className={styles.link} rel="noreferrer" target="_blank" href="https://drive.google.com/file/d/1I-NeYU5DtGtlze-L6cxhiYNzCblvrO7A/view?usp=sharing">
+        <a className={styles.link} rel="noreferrer" target="_blank" href="https://drive.google.com/file/d/1K6vg9D-uB3jIskn4MEE_2kR17TgeLefG/view?usp=sharing">
           ISBRA 2022 Program
         </a>
     </div>
-    <img src={isbra_program_p1.src} />
-    <img src={isbra_program_p2.src} />
-    <img src={isbra_program_p3.src}/>
-    <img src={isbra_program_p4.src} />
-    <img src={isbra_program_p5.src}/>
-    <img src={isbra_program_p6.src} />
-    <img src={isbra_program_p7.src} />
     </>
   );
 }
