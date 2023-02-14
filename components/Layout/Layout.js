@@ -62,16 +62,16 @@ function Layout({ children }) {
       <header className={styles.header}>
         <div>
           <Link href="/">
-            <h2>ISBRA 2022</h2>
+            <h2>ISBRA 2023</h2>
           </Link>
         </div>
       </header>
       <section className={styles.hero}>
         <div>
           <h2>
-            18th International Symposium on Bioinformatics Research and
-            Applications (ISBRA 2022) November 14 - 17, 2022
-            <div>University of Haifa</div>
+            19th International Symposium on Bioinformatics Research and
+            Applications (ISBRA 2023) October 9 - 12, 2023
+            <div>Łukasiewicz Research Network - PORT Polish Center for Technology Development, Wrocław, Poland</div>
           </h2>
         </div>
       </section>
