@@ -19,19 +19,19 @@ function Dates() {
         <div className={styles.entry}>
           <div>Submission deadline</div>
           <span>
-            <span>July 25, 2022</span> ➜ August 08, 2022
+            June 25, 2023
           </span>
         </div>
         <div className={styles.entry}>
           <div>Notification of acceptance</div>
           <span>
-            <span>August 25, 2022</span> ➜ September 06, 2022
+            August 06, 2023
           </span>
         </div>
         <div className={styles.entry}>
           <div>Final version due</div>
           <span>
-            <span>September 7, 2022</span> ➜ September 14, 2022
+            August 14, 2023
           </span>
         </div>
       </div>
@@ -39,44 +39,44 @@ function Dates() {
       <div className={styles.table}>
         <div className={styles.entry}>
           <div>Submission deadline</div>
-          <span>September 07, 2022</span>
+          <span>TBA</span>
         </div>
         <div className={styles.entry}>
           <div>Notification of acceptance</div>
-          <span>September 14, 2022</span>
+          <span>TBA</span>
         </div>
       </div>
       <h3>Late-Breakthrough Submission</h3>
       <div className={styles.table}>
         <div className={styles.entry}>
           <div>Submission deadline</div>
-          <span>September 07, 2022</span>
+          <span>TBA</span>
         </div>
         <div className={styles.entry}>
           <div>Notification of acceptance</div>
-          <span>September 14, 2022</span>
+          <span>TBA</span>
         </div>
       </div>
       <h3>Highlight Abstract Submission</h3>
       <div className={styles.table}>
         <div className={styles.entry}>
           <div>Submission deadline</div>
-          <span>September 07, 2022</span>
+          <span>TBA</span>
         </div>
         <div className={styles.entry}>
           <div>Notification of acceptance</div>
-          <span>September 14, 2022</span>
+          <span>TBA</span>
         </div>
       </div>
       <h3>Poster Submission</h3>
       <div className={styles.table}>
         <div className={styles.entry}>
           <div>Submission deadline</div>
-          <span>September 07, 2022</span>
+          <span>TBA</span>
         </div>
         <div className={styles.entry}>
           <div>Notification of acceptance</div>
-          <span>September 14, 2022</span>
+          <span>TBA</span>
         </div>
       </div>
     </>
