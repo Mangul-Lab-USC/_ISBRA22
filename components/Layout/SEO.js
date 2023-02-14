@@ -5,7 +5,7 @@ function SEO({ title, desc, url }) {
     <Head>
       <title>{title}</title>
       <meta name="description" content={desc} />
-      <meta property="og:title" content={`ISBRA 2022 - ${title}`} />
+      <meta property="og:title" content={`ISBRA 2023 - ${title}`} />
       <meta property="og:description" content={desc} />
     </Head>
   );
