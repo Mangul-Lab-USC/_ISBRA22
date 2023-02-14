@@ -53,7 +53,7 @@ function Home() {
         </ul>
       </div>
       <h3>
-        ISBRA2022 proceedings will be published in the Springer Lecture Notes in
+        ISBRA2023 proceedings will be published in the Springer Lecture Notes in
         Computer Science Volume (EI index).
       </h3>
       <p>
@@ -63,7 +63,7 @@ function Home() {
       <p>
         <b>
           Notice: All listed journals are unconfirmed and pending approval for
-          2022.
+          2023.
         </b>
       </p>
       <ul>
