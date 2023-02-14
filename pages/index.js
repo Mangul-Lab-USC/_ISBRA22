@@ -8,8 +8,7 @@ function Home() {
   return (
     <>
       <SEO
-        title="ISBRA 2022 - 18th International Symposium on Bioinformatics Research
-          and Applications"
+        title="ISBRA 2023 - Łukasiewicz Research Network - PORT Polish Center for Technology Development, Wrocław, Poland October 9-12, 2023"
         desc="The International Symposium on Bioinformatics Research and Applications (ISBRA) provides a forum for the exchange of ideas and results among researchers, developers, and practitioners working on all aspects of bioinformatics and computational biology and their applications."
       />
       <h1>Welcome</h1>
