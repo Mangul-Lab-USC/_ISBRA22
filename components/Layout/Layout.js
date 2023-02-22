@@ -70,8 +70,8 @@ function Layout({ children }) {
         <div>
           <h2>
             18th International Symposium on Bioinformatics Research and
-            Applications (ISBRA 2022)
-            <div></div>
+            Applications (ISBRA 2022) November 14 - 17, 2022
+            <div>University of Haifa</div>
           </h2>
         </div>
       </section>
