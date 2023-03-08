@@ -3,11 +3,13 @@ import SEO from "../components/Layout/SEO";
 import NSF from "../public/images/NSF.png";
 import ISCB from "../public/images/iscb-logo.jpg";
 import GSU from "../public/images/GSU.jpg";
+
 function Home() {
   return (
     <>
       <SEO
-        title="ISBRA 2022"
+        title="ISBRA 2022 - 18th International Symposium on Bioinformatics Research
+          and Applications"
         desc="The International Symposium on Bioinformatics Research and Applications (ISBRA) provides a forum for the exchange of ideas and results among researchers, developers, and practitioners working on all aspects of bioinformatics and computational biology and their applications."
       />
       <h1>Welcome</h1>
@@ -53,7 +55,6 @@ function Home() {
       </div>
       <h3>
         ISBRA2022 proceedings will be published in the Springer Lecture Notes in
-        ISBRA2023 proceedings will be published in the Springer Lecture Notes in
         Computer Science Volume (EI index).
       </h3>
       <p>
@@ -64,7 +65,6 @@ function Home() {
         <b>
           Notice: All listed journals are unconfirmed and pending approval for
           2022.
-          2023.
         </b>
       </p>
       <ul>
@@ -85,4 +85,5 @@ function Home() {
     </>
   );
 }
+
 export default Home;
